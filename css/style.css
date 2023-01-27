@@ -1,0 +1,94 @@
+*{
+    background-color: black;
+}
+.contenedor{
+    background-color: black;
+    margin: auto;
+    margin-top: 50px;
+    height: 400px;
+    width: 800px;
+    position: relative;
+}
+.perfil{
+    top: calc(50% - 90px);
+    
+    height: 120px;
+    width: 120px;
+    position: absolute;
+}
+.perfil--1{
+    background-color: grey;
+    left: 30px;
+    position: absolute;
+}
+.perfil--2{
+    background-color: orange;
+    left: 180px;
+    position: absolute;
+}
+.perfil--3{
+    background-color: aqua;
+    left: 330px;
+    position: absolute;
+}
+.perfil--4{
+    background-color: yellow;
+    left: 480px;
+    position: absolute;
+}
+.perfil--5{
+    top: calc(50% - 60px);
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    left: 670px;
+    position: absolute;
+    border-radius: 50%;
+}
+.text--1{
+    color: aliceblue;
+    bottom: 110px;
+    left: 60px;
+    position: absolute;
+}
+.text--2{
+    color: aliceblue;
+    bottom: 110px;
+    left: 210px;
+    position: absolute;
+}
+.text--3{
+    color: aliceblue;
+    bottom: 110px;
+    left: 360px;
+    position: absolute;
+}
+.text--4{
+    color: aliceblue;
+    bottom: 110px;
+    left: 510px;
+    position: absolute;
+}
+.text--5{
+    color: aliceblue;
+    bottom: 110px;
+    left: 660px;
+    position: absolute;
+}
+.text--6{
+    color: aliceblue;
+    top: 10px;
+    left: 200px;
+    position: absolute;
+}
+.text--7{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    
+    color: aliceblue;
+    bottom: 50px;
+    left: calc(50% - 100px);
+    position: absolute;
+    border: 1px solid white;
+}
